@@ -10,7 +10,7 @@ namespace AgentBanck
     {
         static void Main(string[] args)
         {
-            var conta = new ContaCorrente(417,123456);
+            var conta = new ContaCorrente(417,-1515);
 
             Console.WriteLine("Agencia " + conta.Agencia);
             Console.WriteLine("Conta " + conta.Conta);
