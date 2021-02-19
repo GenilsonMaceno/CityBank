@@ -1,0 +1,7 @@
+C:\Users\genilson.maceno\OneDrive\repos\AgentBackTeste\AgentBanck\bin\Debug\AgentBanck.exe.config
+C:\Users\genilson.maceno\OneDrive\repos\AgentBackTeste\AgentBanck\bin\Debug\AgentBanck.exe
+C:\Users\genilson.maceno\OneDrive\repos\AgentBackTeste\AgentBanck\bin\Debug\AgentBanck.pdb
+C:\Users\genilson.maceno\OneDrive\repos\AgentBackTeste\AgentBanck\obj\Debug\AgentBanck.csprojAssemblyReference.cache
+C:\Users\genilson.maceno\OneDrive\repos\AgentBackTeste\AgentBanck\obj\Debug\AgentBanck.csproj.CoreCompileInputs.cache
+C:\Users\genilson.maceno\OneDrive\repos\AgentBackTeste\AgentBanck\obj\Debug\AgentBanck.exe
+C:\Users\genilson.maceno\OneDrive\repos\AgentBackTeste\AgentBanck\obj\Debug\AgentBanck.pdb
