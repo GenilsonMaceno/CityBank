@@ -1,0 +1,7 @@
+C:\Users\genil\OneDrive\repos\AgentBackTeste\AgentBackTeste\bin\Debug\AgentBackTeste.exe.config
+C:\Users\genil\OneDrive\repos\AgentBackTeste\AgentBackTeste\bin\Debug\AgentBackTeste.exe
+C:\Users\genil\OneDrive\repos\AgentBackTeste\AgentBackTeste\bin\Debug\AgentBackTeste.pdb
+C:\Users\genil\OneDrive\repos\AgentBackTeste\AgentBackTeste\obj\Debug\AgentBackTeste.csprojAssemblyReference.cache
+C:\Users\genil\OneDrive\repos\AgentBackTeste\AgentBackTeste\obj\Debug\AgentBackTeste.csproj.CoreCompileInputs.cache
+C:\Users\genil\OneDrive\repos\AgentBackTeste\AgentBackTeste\obj\Debug\AgentBackTeste.exe
+C:\Users\genil\OneDrive\repos\AgentBackTeste\AgentBackTeste\obj\Debug\AgentBackTeste.pdb
